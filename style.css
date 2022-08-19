@@ -1,0 +1,44 @@
+#uno {
+    border: 3px solid rgb(52, 236, 199);; /*anchura, estilo y color borde*/
+    padding: 10px; /*espacio alrededor texto*/
+    background-color: #ecf1f8; /*color botón*/
+    color: rgb(52, 236, 199); /*color texto*/
+    text-decoration: none; /*decoración texto*/
+    text-transform: capitalize; /*capitalización texto*/
+    font-family: "Comfortaa"; /*tipografía texto*/
+    border-radius: 50px; /*bordes redondos*/
+    margin-left: 100px;
+    margin-top: 100px;
+    width: 200px;
+    height: 50px;
+    font-size: medium
+    }
+#dos{
+    padding: 10px; /*espacio alrededor texto*/
+    background-color: rgb(52, 236, 199); /*color botón*/
+    color: whitesmoke; /*color texto*/
+    text-decoration: none; /*decoración texto*/
+    text-transform: "capitalize"; /*capitalización texto*/
+    font-family: Arial, Helvetica, sans-serif; /*tipografía texto*/
+    font-size: x-large;
+    border-radius: 100px; /*bordes redondos*/
+    margin-left: 100px;
+    margin-top: 20px;
+    width: 50px;
+    height:50px;
+    border: 3px solid rgb(52, 236, 199)
+}
+#tres{
+    padding: 10px; /*espacio alrededor texto*/
+    background-color: rgb(5, 78, 173); /*color botón*/
+    color: whitesmoke; /*color texto*/
+    text-decoration: none; /*decoración texto*/
+    text-transform: "capitalize"; /*capitalización texto*/
+    font-family: "Comfortaa"; /*tipografía texto*/
+    border-radius: 0px; /*bordes redondos*/
+    margin-left: 100px;
+    margin-top: 20px;
+    box-shadow: 5px 10px black;
+    width: 200px;
+    height: 50px;
+}
